@@ -34,12 +34,7 @@ I'm in the process of mastering various programming languages to build innovativ
 
 ---
 
-## 💻 My Projects
-- **Project 1**: A web-based application developed using **PHP** and **MySQL** that helps users track their daily tasks.
-- **Project 2**: A dynamic portfolio website built with **HTML**, **CSS**, and **JavaScript**.
-- **Project 3**: A command-line tool built with **C++** that calculates mathematical functions.
 
----
 
 ## 🎯 Goals
 - Master **JavaScript** and **React** to develop modern web applications.
@@ -51,7 +46,7 @@ I'm in the process of mastering various programming languages to build innovativ
 ## 📬 Let's Connect!
 I'm always open to discussing new ideas, learning opportunities, and collaborations! Feel free to reach out to me via:
 
-- 📧 Email: [kodnidiyana@example.com](mailto:kodnidiyana@example.com)
+- 📧 Email: [kodnidiyanadesilva123@gmail.com](mailto:kodnidiyanadesilva123@gmail.com)
 
 ---
 
